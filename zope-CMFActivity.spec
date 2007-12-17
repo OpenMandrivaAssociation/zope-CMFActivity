@@ -15,7 +15,6 @@ Source:     %{Product}-%{version}.tar.bz2
 Requires:   zope
 Obsoletes:  %{Product}
 Buildarch:  noarch
-BuildRoot:  %{_tmppath}/%{name}
 
 %description
 This tools allows to implement activities for zope objects. 
