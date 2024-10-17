@@ -10,7 +10,7 @@ Release:	%{release}
 Summary:    Activity Tool for zope
 License:    GPL
 Group:      System/Servers
-URL:        http://www.erp5.org
+URL:        https://www.erp5.org
 Source:     %{Product}-%{version}.tar.bz2
 Requires:   zope
 Obsoletes:  %{Product}
